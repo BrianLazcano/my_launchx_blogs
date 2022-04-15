@@ -1,6 +1,6 @@
 ---
 title: Launch X Bitácora de viaje de Brian Lazcano
-description: The hallway smelt of boiled cabbage and old rag mats.
+description: The world is too small to stay in a one place
 ---
 
 Hola ✌️  soy el explorer Brian Lazcano y este es mi blog personal donde compartiré mis aventuras de Launch X.
