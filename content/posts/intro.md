@@ -4,4 +4,4 @@ date: 2022-02-21T18:16:21-06:00
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
-Usa este post para anotar tus expectativas de la misión.
+Durante este curso espero encontrar nuevos conocimientos sobre el desarrollo web y mejorar mis conocimientos para así poderme desarrollar mejor en un ámbito laboral estable, por lo que estaré dando lo mejor de mí para poder aprender nuevas habilidades y estar dedicado mejorar como profesional.
