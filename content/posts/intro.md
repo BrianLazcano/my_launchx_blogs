@@ -4,11 +4,35 @@ date: 2022-04-21T13:40:21-06:00
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
-Para un desarrollador de software lo más importante a considerar es su creatividad, tener en claro que es lo que desea lograr.
+##¿Qué es lo más importante para un desarrollador de software?
 
-Entre los valores que se tienen están los valores éticos y morales con los que se rige un profesional, ya que estos son un camino para un desarrollo responsable.
+Entre los más fundamentales de un desarrollador de software están los conocimientos con los que cuenta el desarrollador, estos conocimientos van desde las metodologías al utilizar, los lenguajes de programación que se conocen, el tipo de desarrollo que se maneja, además de igual que tanta es su preparación y conocimiento de nuevas tecnologías.
 
-Los sentimientos con los que se llega a enfrentar un desarrollador de software son bastantes, ya que son distintas las situaciones con las que un programador se llegara a  encontrar entre las que están sentirse frustrado por no poder avanzar durante una práctica además de no poder avanzar en algún proyecto y tener que buscar la solución, se preguntaran porque comienzo con la sensación de frustración como primer sentimiento porque durante mi corta experiencia puedo decir que esta sensación puede llegar a ser una de las principales barreras con las que te llegaras a encontrar durante el transcurso de tu viaje profesional, pero la sensación de haber superado esa barrera u obstáculo esa sensación de felicidad de poder avanzar después de haberte estancado es una de las cosas más satisfactorias que se pueden llegar a sentir, el haber logrado superar esa barrera es una gran motivación para poder seguir adelante y poder mejorar en tus habilidades, el estar atorado no es motivo de desmotivación, es normal, pues durante este viaje encontraremos nuevos cosas con las que no estamos familiarizados, pero en vez de sentirnos frustrados podremos encontrar la oportunidad de adquirir nuevas habilidades.
-Por lo que durante nuestra travesía encontraremos muchos tipos de emociones tanto buenas como malas, pero la satisfacción de las emociones buenas es mucho mayor que la de las malas emociones, por lo que desde mi perspectiva es un precio justo a pagar.
 
-Durante nuestras prácticas que realicemos estas están ideadas para mejorar nuestras habilidades y poder así afrontar diferentes tipos de problemas que se vayan presentando, este conocimiento a final de cuentas lo podremos ir implementando durante todo nuestro viaje profesional.
+Valores de un Desarrollador de Software
+
+Entre los valores personales de un desarrollador de software se encuentran la responsabilidad, honestidad, empatía, respeto, de igual manera se encuentran nuestros valores morales y éticos.
+
+Como profesional hay 3 valores que son indispensables durante tu curso laboral, los cuales son:
+
+###1.  Comunicación
+
+El código comunica bien cuando el programador que lo lee pueda comprenderlo, modificarlo o usarlo sin dificultad. Muchos programadores se sienten tentados a pensar únicamente en el ordenador, sin embargo, los buenos programadores piensan en las personas que vienen detrás de nosotros para leer nuestro código.
+
+###2.  Simplicidad
+
+Eliminar el exceso de complejidad lleva a aquellos que lo leen, emplean y modifican a comprenderlos de forma más rápida. Hay complejidades esenciales, es decir, inherentes al problema que tenemos que resolver y vienen definidas por él mismo.
+
+###3.  Flexibilidad 
+
+Los programas deberían ser fáciles de cambiar. La flexibilidad que queremos es aquella que nos haga más fácil las modificaciones el día de mañana, una flexibilidad basada en diseños más simples y una buena cobertura de test y no basadas en diseños especulativos con propiedades o características innecesarias y que no aportan valor real a la solución.
+
+
+##El sentir de un Desarrollador de Software
+
+Durante nuestro viaje desarrollaremos distintos tipos de emociones, estas van enfocadas tanto a nuestro ámbito laboral como nuestra vida personal, el tiempo que invertiremos durante proyectos y vida personal, puede ser una carga sentimental y emocional que alcanza a ser realmente abrumadora pues todo lo que podemos llegar a sentir durante nuestro desarrollo puede ser increíblemente caótico, pues los obstáculos que se presentan en el camino, van desde simples errores hasta cosas muy complejas de las que desconocemos, pero en este camino no todo es malo, pues la felicidad de lograr superar estos problemas te gratificara con una gran motivación para poder seguir adelante y mejorar en lo que estamos haciendo, tendremos momentos malos y buenos, como todos en la vida, lo que realmente nos ayudara  a poder seguir adelante es nunca rendirnos y seguir intentando hasta lograrlo, pues en esto consiste nuestro viaje como desarrolladores, ya que lo que sentiremos se puede considerar un 50/50, pero si esto en verdad te apasiona es fácil que el 50% malo pueda ser mucho menor o incluso llegar ser nulo.
+
+##Las practicas
+
+Durante nuestras prácticas iremos adquiriendo nuevos conocimientos, de esta manera ir reforzando lo que ya sabíamos, en el mundo de la programación existen varios métodos para alcanzar un objetivo, por lo que está bien que vayas conociendo las distintas formas de lograr tus objetivos, en algunos casos conocerás formas complejas o simples de realizar ciertas acciones esto con el tiempo las iras perfeccionando y dependiendo de tu gusto, y experiencia podrás decidir cuál es la que mejor se ajusta a lo que necesitas, igualmente puedes ir conociendo cuáles son las buenas prácticas para lo que estás haciendo de esta forma podrás ir mejorando tus habilidades de desarrollo e implementación.
+
