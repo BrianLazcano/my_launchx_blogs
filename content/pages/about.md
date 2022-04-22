@@ -2,20 +2,16 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: "Brian Lazcano"
 ---
 
 ## Who am I
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Hola mi nombre es Brian Adolfo Lazcano Davila.
+Soy recien egresado de la carrera de ingenieria en istemas computacionales
+soy un gran fanatico de los videojuegos con dificuldad avanzada ya que los veo como una prueba 
+para poder susperar los obstaculos.
+me gusta mucho la musica rock ademas de otros generos.
 
