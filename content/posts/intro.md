@@ -4,7 +4,7 @@ date: 2022-04-21T13:40:21-06:00
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
-##¿Qué es lo más importante para un desarrollador de software?
+## ¿Qué es lo más importante para un desarrollador de software?
 
 Entre los más fundamentales de un desarrollador de software están los conocimientos con los que cuenta el desarrollador, estos conocimientos van desde las metodologías al utilizar, los lenguajes de programación que se conocen, el tipo de desarrollo que se maneja, además de igual que tanta es su preparación y conocimiento de nuevas tecnologías.
 
