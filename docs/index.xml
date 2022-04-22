@@ -18,6 +18,15 @@ Valores de un Desarrollador de Software Entre los valores personales de un desar
     </item>
     
     <item>
+      <title>JavaScript</title>
+      <link>https://brianlazcano.github.io/my_launchx_blogs/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianlazcano.github.io/my_launchx_blogs/posts/post_1/</guid>
+      <description>La importancia de JavaScript en la web El mundo de posibilidades que nos abre Javascript es muy extenso y hoy en día, es casi imprescindible para el desarrollo de páginas webs. Como todo, tiene sus inconvenientes y sus limitaciones, pero gracias a la gran cantidad de librerías que existen se pueden hacer grandes cosas. Javascript es uno de los lenguajes de programación más sencillos que existen, y como has podido ver en los ejemplos anteriores, su rapidez permite ejecutar funciones de manera inmediata.</description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>https://brianlazcano.github.io/my_launchx_blogs/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
